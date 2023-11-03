@@ -64,7 +64,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
 
-Data Head:
+### Data Head:
 
 
 
@@ -74,7 +74,7 @@ Data Head:
 
 
 
-Dataset Info:
+### Dataset Info:
 
 
 
@@ -85,7 +85,7 @@ Dataset Info:
 
 
 
-Null dataset:
+### Null dataset:
 
 
 
@@ -96,7 +96,7 @@ Null dataset:
 
 
 
-Values Count in Left Column:
+### Values Count in Left Column:
 
 
 
@@ -107,7 +107,7 @@ Values Count in Left Column:
 
 
 
-Dataset transformed head:
+### Dataset transformed head:
 
 
 
@@ -119,7 +119,7 @@ Dataset transformed head:
 
 
 
-x.head():
+### x.head():
 
 
 
@@ -130,7 +130,7 @@ x.head():
 
 
 
-Accuracy:
+### Accuracy:
 
 
 
@@ -142,7 +142,7 @@ Accuracy:
 
 
 
-Data Prediction:
+### Data Prediction:
 
 
 
