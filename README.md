@@ -68,17 +68,27 @@ Data Head:
 ![276257614-8850104f-05c5-44ac-af22-ad93fb88abe7](https://github.com/PriyankaAnnadurai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118351569/0946f977-5e7b-4b84-b89c-622e5551bdb3)
 
 
+
+
 Dataset Info:
 
 ![276257804-9b2b5660-3d11-4747-8244-35f4ff1b94a8](https://github.com/PriyankaAnnadurai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118351569/0428b5d7-fd26-430e-9326-da4784e15454)
+
+
+
 
 
 Null dataset:
 ![276258036-40aea425-2092-4bed-852f-e618627784bc](https://github.com/PriyankaAnnadurai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118351569/edd0cba8-44be-4731-894e-97e92db5b453)
 
 
+
+
+
 Values Count in Left Column:
 ![276258214-f9b639ea-ba36-4e3f-841c-16b4dce87b10](https://github.com/PriyankaAnnadurai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118351569/9b6db5b9-e7a5-478c-b5e8-8e26cc94c4ca)
+
+
 
 
 
@@ -87,17 +97,28 @@ Dataset transformed head:
 ![276258309-970953ab-f37c-4739-83e2-1c0d5cb0d8d9](https://github.com/PriyankaAnnadurai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118351569/00ad6187-c10c-4892-8287-6c3865bb2827)
 
 
+
+
+
 x.head():
 ![276258426-34760264-f038-4f2b-83ee-a56128efada6](https://github.com/PriyankaAnnadurai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118351569/38996680-2cc4-4b8d-a8e9-cb3240a8b2be)
+
+
+
 
 
 Accuracy:
 ![276258721-1d1a55c7-8c3e-46eb-a5a1-2b26eaeb5caa](https://github.com/PriyankaAnnadurai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118351569/d264437f-050b-41bf-af2d-08c7d097738b)
 
 
+
+
+
 Data Prediction:
 
 ![276258763-0443eb09-e704-4d1d-bbdb-99dcdd722377](https://github.com/PriyankaAnnadurai/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118351569/616709ce-ff25-4add-82e4-2f640d29209a)
+
+
 
 
 ## Result:
